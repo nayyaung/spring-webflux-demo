@@ -8,6 +8,4 @@ import org.springframework.web.reactive.function.server.ServerResponse;
 @Configuration(proxyBeanMethods = false)
 public class GreetingRouter {
 
-    @Bean
-    public RouterFunction<ServerResponse>
 }
